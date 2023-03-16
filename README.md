@@ -103,6 +103,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 6: Input and output](https://briancallahan.net/blog/20210819.html)
   - [Part 7: Arrays](https://briancallahan.net/blog/20210822.html)
   - [Part 8: Strings, forward references, and conclusion](https://briancallahan.net/blog/20210826.html)
+  - Websites you can learn C++ from(Text interactive)
+  - You can learn C++ from (https://codelearn.io/)
+  - Educative.io (https://www.educative.io/)
 
 ### Network programming
 
